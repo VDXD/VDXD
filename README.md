@@ -32,4 +32,11 @@ I am a college student learning Frontend and Blender. I'm looking forward to cre
 
 <a href="http://www.github.com/VDXD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VDXD&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+### Last Listened to :
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31dtwrsoqdollhblrqlinnxd3z2q?si=8f9e7541c0c74e41">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vzsladd5jbnxtgtmtnkml45km4&count=7&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
